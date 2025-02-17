@@ -4,8 +4,9 @@
   "private": true,
   "dependencies": {
     "@apollo/client": "^3.3.6",
-    "@emotion/react": "^11.4.1",
-    "@emotion/styled": "^11.13.5",
+
+    "@emotion/react": "^11.13.5",
+    "@emotion/styled": "^11.3.0",
     "@mui/icons-material": "^5.0.1",
     "@mui/lab": "^5.0.0-alpha.48",
     "@mui/material": "^5.0.1",
@@ -31,7 +32,7 @@
     "react-dom": "^17.0.2",
     "react-geocode": "^0.2.2",
     "react-google-login": "^5.2.2",
-    "react-i18next": "^13.4.1",
+    "react-i18next": "^15.1.2",
     "react-mentions": "^4.3.1",
     "react-modal": "^3.16.1",
     "react-otp-input": "^3.1.1",
